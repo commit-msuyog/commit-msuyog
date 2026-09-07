@@ -1,1 +1,1 @@
-![🏵️](\images\jessejane.jpg)
+![](./images/jessejane.jpg)
