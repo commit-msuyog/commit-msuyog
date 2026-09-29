@@ -28,5 +28,6 @@
 <br>
 
 <img src="./images/run.gif" height="40" />
+<br>
 <img src="https://komarev.com/ghpvc/?username=commit-msuyog&style=flat-square&color=grey" alt="Profile Views">
 </div>
