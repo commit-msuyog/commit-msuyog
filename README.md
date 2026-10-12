@@ -19,15 +19,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <br>
 <p>
+<img src="./images/run.gif" height="40" />
+<br>
   not here to look impressive.<br>
   here to contribute.
 </p>
-<br>
-
-<img src="./images/run.gif" height="40" />
-<br>
-  <img src="https://komarev.com/ghpvc/?username=commit-msuyog&style=flat-square" alt="Profile views">
 </div>
