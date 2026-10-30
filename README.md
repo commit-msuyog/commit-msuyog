@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/jessejane.jpg" width="700">
+  <img src="./images/radhakrishna.jpg" width="700">
 </p>
 
 <div align="center">
